@@ -19,7 +19,7 @@
 
 ### стек: 
 `Python`  **Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikitlearn**  
-`AirFlow`
+`AirFlow`  
 `git`  
 `R` **ggplot2, dplyr, data.table, rstatix**  
 `SQL` **MySQL, PostgreSQL, Redash, ClickHouse**  
