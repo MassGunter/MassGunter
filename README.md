@@ -26,6 +26,14 @@
 `tableau`
 `PowerBI`
 
+### инструментарий:   
+`JupyterLab` `JupyterHub` `Jupyter notebook` `Rstudio`  
+`Gitlab` `AirFlow 2.0` `Docker`
+`Tabix` `Redash` `DBeaver`  
+`Notions` `Jira` `Slack` `Obsidian`     
+`Tableau` `PowerBI` `Amplitude`  
+`MS Office 365` `Google Docs`
+
 ## Проекты на Гитхабе
 - [Проекты karpov.courses](https://github.com/MassGunter/kc_projects)
 - **work in progress**  
