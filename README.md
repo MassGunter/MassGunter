@@ -28,6 +28,7 @@
 
 ### стек: 
 `Python`  **Pandas, NumPy, SciPy, Matplotlib, Seaborn, Scikitlearn**  
+`dbt`  
 `AirFlow`  
 `git`  
 `R` **ggplot2, dplyr, data.table, rstatix**  
@@ -36,7 +37,7 @@
 `PowerBI`
 
 ### инструментарий:   
-`JupyterLab` `JupyterHub` `Jupyter notebook` `Rstudio` `dbt`  
+`JupyterLab` `JupyterHub` `Jupyter notebook` `Rstudio`   
 `Gitlab` `AirFlow 2.0` `Docker`
 `Tabix` `Redash` `DBeaver`  
 `Notions` `Jira` `Slack` `Obsidian`     
