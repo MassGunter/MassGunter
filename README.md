@@ -36,7 +36,7 @@
 `PowerBI`
 
 ### инструментарий:   
-`JupyterLab` `JupyterHub` `Jupyter notebook` `Rstudio` `dbt`
+`JupyterLab` `JupyterHub` `Jupyter notebook` `Rstudio` `dbt`  
 `Gitlab` `AirFlow 2.0` `Docker`
 `Tabix` `Redash` `DBeaver`  
 `Notions` `Jira` `Slack` `Obsidian`     
