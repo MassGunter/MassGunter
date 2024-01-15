@@ -1,10 +1,10 @@
-## Привет
+## Hi
 
-### Немного о себе
-- Кирилл Стоянов, 25 лет 
-- аналитик / дата инженер
-- Развиваюсь в сфере анализа данных
+ 
 
+
+
+<!---
 ### Заинтересован в работе
 - Позиция – data analyst, BI-analyst
 - удаленка
@@ -70,7 +70,7 @@
 
 ## Дашборды 
 [public.tableau](https://public.tableau.com/app/profile/kirill3209#!/?newProfile=&activeTab=0)  
- 
+--->
 
 <!---
 MassGunter/MassGunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
